@@ -6,3 +6,5 @@ Using an SVM to classify Tumors based on their characteristics.
 The notebook is adopted from IBM's course on Machine Leraning on Coursera:
 https://www.coursera.org/learn/machine-learning-with-python
 
+
+Evaluates SVM accuracy using different kernel functions.
